@@ -17,9 +17,9 @@ this type of research.
 
 Through this basic Python script, the Persons branch of the Medical Subject 
 Headings (MeSH) tree, https://www.ncbi.nlm.nih.gov/mesh/68009272, becomes a
-useful tool for accessing this research by individual audience types. It
-provides a standing count of studies for each named audience, that you can
-retrieve from pubmed.gov.
+useful tool for accessing this research by individual audience types. The
+script provides a standing count of studies for each named audience, that you
+can retrieve from pubmed.gov.
 
 Information introducing the script describes mechanisms, requirements, and 
 a few caveats.
