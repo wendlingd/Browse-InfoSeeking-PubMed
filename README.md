@@ -1,4 +1,4 @@
-# Browse-InfoSeeking-PubMed
+# Browse InfoSeeking studies in PubMed
 
 Browse 'information needs-seeking-use' studies in PubMed with Python-generated report
 
@@ -16,6 +16,8 @@ Headings (MeSH) tree, https://www.ncbi.nlm.nih.gov/mesh/68009272, becomes a
 useful tool for accessing this research by individual audience types. It
 provides a standing count of studies for each named audience, that you can
 retrieve from pubmed.gov.
+
+Information at the script describes mechanisms and a few caveats.
 
 Run this report periodically to maintain a starting point for people looking
 for this type of research.
