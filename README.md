@@ -17,7 +17,8 @@ useful tool for accessing this research by individual audience types. It
 provides a standing count of studies for each named audience, that you can
 retrieve from pubmed.gov.
 
-Information at the script describes mechanisms and a few caveats.
+Information introducing the script describes mechanisms, requirements, and 
+a few caveats.
 
-Run this report periodically to maintain a starting point for people looking
-for this type of research.
+Run this report periodically so you and your staff can have an uncomplicated
+foothold into this type of research.
