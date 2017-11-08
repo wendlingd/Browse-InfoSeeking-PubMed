@@ -5,7 +5,8 @@ Browse 'information needs-seeking-use' studies in PubMed with Python-generated r
 Task: Let's say you are creating a new web resource for a particular 
 audience, such as "caregivers." What do you know about the information
 needs, information seeking, and information use behaviors of this audience? 
-Much as been published.
+The more you know, the more effective your communication will be. Much as 
+been published.
 
 Subject matter experts, product managers, public affairs staff, etc. in
 medicine- and health-related disciplines could use an ongoing connection to
