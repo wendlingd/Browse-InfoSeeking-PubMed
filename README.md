@@ -34,7 +34,8 @@ Number of studies by audience type. MeSH page above shows where the indents are.
 ```
 Total records found = 1264
  
-To view studies, search at pubmed.gov using "AudienceTermHere"[Mesh] AND "Information Seeking Behavior"[Mesh] AND "last 6 year"[dp]
+To view studies, search at pubmed.gov using "AudienceTermHere"[Mesh] AND 
+"Information Seeking Behavior"[Mesh] AND "last 6 year"[dp]
  
 Abortion Applicants 0
 Adult Children 2
