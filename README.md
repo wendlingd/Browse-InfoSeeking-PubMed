@@ -21,5 +21,5 @@ retrieve from pubmed.gov.
 Information introducing the script describes mechanisms, requirements, and 
 a few caveats.
 
-Run this report periodically so you and your staff can have an uncomplicated
+Run this bibliometric report periodically so you and your staff can have an uncomplicated
 foothold into this type of research.
