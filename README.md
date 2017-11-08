@@ -1,4 +1,4 @@
-# Browse InfoSeeking studies in PubMed
+# Python - List counts for InfoSeeking studies in PubMed, by audience
 
 ## Health-medicine resource for building personas, journey maps, etc.
 
