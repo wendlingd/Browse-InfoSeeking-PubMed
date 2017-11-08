@@ -29,10 +29,9 @@ uncomplicated foothold into this type of research.
 
 ## Sample report output
 
-: number of studies by audience type. MeSH page above 
-shows where the indents are.
+Number of studies by audience type. MeSH page above shows where the indents are.
 
-
+```
 Total records found = 1264
  
 To view studies, search at pubmed.gov using "AudienceTermHere"[Mesh] AND "Information Seeking Behavior"[Mesh] AND "last 6 year"[dp]
@@ -180,3 +179,4 @@ Physicians, Women 0
 Pregnant Women 28
 Women, Working  2
 Working Poor 0
+```
