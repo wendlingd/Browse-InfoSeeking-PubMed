@@ -27,6 +27,9 @@ a few caveats.
 Run this bibliometric report periodically so you and your staff can have an 
 uncomplicated foothold into this type of research.
 
+The result is an HTML file with hyperlinks to pubmed.gov, for each Persons 
+term that retrieves records.
+
 ## Sample report output
 
 Number of studies by audience type. MeSH page above shows where the indents are.
