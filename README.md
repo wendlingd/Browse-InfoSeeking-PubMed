@@ -28,7 +28,7 @@ Run this bibliometric report periodically so you and your staff can have an
 uncomplicated foothold into this type of research.
 
 The result is an HTML file with hyperlinks to pubmed.gov, for each Persons 
-term that retrieves records.
+term that retrieves PubMed added within the past 6 years.
 
 ## Sample report output
 
