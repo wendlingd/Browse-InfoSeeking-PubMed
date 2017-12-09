@@ -8,7 +8,7 @@ report
 Task: Let's say you are creating a new web resource for a particular 
 audience, such as "caregivers." What do you know about the information
 needs, information seeking, and information use behaviors of this audience? 
-The more you know, the more effective your communication will be. Much as 
+The more you know, the more effective your communication will be. Much has 
 been published.
 
 Subject matter experts, product managers, public affairs staff, etc. in
