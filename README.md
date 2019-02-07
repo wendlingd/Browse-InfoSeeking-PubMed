@@ -44,8 +44,11 @@ BioPython package, http://biopython.org/DIST/docs/tutorial/Tutorial.html
 The email address from a MyNCBI account must be used to communicate with the 
 server; https://www.ncbi.nlm.nih.gov/books/NBK3842/
 
-## Sample report output
+## Sample report output, HTML and screenshot
 
 Number of studies by audience type. 
 
+Preview the HTML report: http://htmlpreview.github.com/?https://github.com/wendlingd/Browse-InfoSeeking-PubMed/blob/master/InfoSeekingStudies.html
+
+Screenshot: 
 ![screenshot](UserStudiesReport.png)
