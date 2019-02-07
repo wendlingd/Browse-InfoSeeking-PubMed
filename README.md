@@ -37,6 +37,13 @@ MeSH changes; you may want to update the csv file here to match the pages
 starting from https://www.ncbi.nlm.nih.gov/mesh/68009272. Most yearly updates
 are done in the fall; more info: https://www.nlm.nih.gov/bsd/policy/yep_background.html.
 
+## Requirements
+
+BioPython package, http://biopython.org/DIST/docs/tutorial/Tutorial.html
+
+The email address from a MyNCBI account must be used to communicate with the 
+server; https://www.ncbi.nlm.nih.gov/books/NBK3842/
+
 ## Sample report output
 
 Number of studies by audience type. 
