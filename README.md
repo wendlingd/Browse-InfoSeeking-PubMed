@@ -48,3 +48,4 @@ server; https://www.ncbi.nlm.nih.gov/books/NBK3842/
 
 Number of studies by audience type. 
 
+![screenshot](UserStudiesReport.png)
