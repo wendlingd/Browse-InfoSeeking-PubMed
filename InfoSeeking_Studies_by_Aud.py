@@ -162,7 +162,7 @@ htmlOutput.append('<h1>Understand your audiences: Health-medical information-see
                   &quot;caregivers&quot; link below runs the following search strategy at \
                   <a href="https://pubmed.gov">pubmed.gov</a>: Caregivers[Mesh] \
                   AND "Information Seeking Behavior"[Mesh] AND "last 6 year"[dp]. \
-                  This report was build from the \
+                  This report was built from the \
                   <a href="https://www.ncbi.nlm.nih.gov/mesh/68009272">Persons \
                   branch of the MeSH tree.</a> Terms with zero results are not shown. \
                   Note: New database records are built incrementally, and the \
