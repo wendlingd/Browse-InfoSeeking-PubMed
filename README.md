@@ -33,6 +33,10 @@ The script searches all terms in the top three levels of the Persons branch
 of the MeSH tree; below that, some terms were included and others were not.
 Terms retrieving zero results are not included in the report.
 
+MeSH changes; you may want to update the csv file here to match the pages
+starting from https://www.ncbi.nlm.nih.gov/mesh/68009272. Most yearly updates
+are done in the fall; more info: https://www.nlm.nih.gov/bsd/policy/yep_background.html.
+
 ## Sample report output
 
 Number of studies by audience type. 
