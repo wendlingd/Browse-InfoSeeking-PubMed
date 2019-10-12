@@ -16,8 +16,10 @@ medicine- and health-related disciplines could use an ongoing connection to
 this type of research.
 
 This script searches all terms in the top three levels of the Persons branch
-of the MeSH tree; below that, some terms will be included and others will not
-(you can adjust this). Terms retrieving zero results are not included in the report.
+of the Persons branch of the Medical Subject Headings (MeSH) tree, 
+https://www.ncbi.nlm.nih.gov/mesh/68009272. In the levels below the thrid, some
+terms will be included here and others will not be (you can adjust this). Terms 
+retrieving zero results are not included in the report.
 
 ## Sample report output, HTML and screenshot
 
@@ -30,8 +32,7 @@ Screenshot:
 
 ## Details ##
 
-Through this basic Python script, the Persons branch of the Medical Subject 
-Headings (MeSH) tree, https://www.ncbi.nlm.nih.gov/mesh/68009272, becomes a
+Through this basic Python script, the Persons branch of the MeSH tree becomes a
 useful tool for accessing this research by individual audience types. The
 script provides a standing count of studies for each named audience, that you
 can retrieve from pubmed.gov.
