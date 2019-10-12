@@ -1,6 +1,6 @@
 # Python - List counts for InfoSeeking studies in PubMed, by audience
 
-## Health-medicine resource for building personas, journey maps, etc.
+## Health-medicine resource for building human-centered digital products and services
 
 Browse 'information needs-seeking-use' studies in PubMed with Python-generated 
 report
@@ -30,7 +30,7 @@ Preview the HTML report: http://htmlpreview.github.com/?https://github.com/wendl
 Screenshot: 
 ![screenshot](UserStudiesReport.png)
 
-## Details ##
+## Details
 
 Through this basic Python script, the Persons branch of the MeSH tree becomes a
 useful tool for accessing this research by individual audience types. The
