@@ -1,6 +1,6 @@
 # Python - List counts for InfoSeeking studies in PubMed, by audience
 
-## For builders of human-centered, digital health-medicine products and services
+### For builders of human-centered, digital health-medicine products and services
 
 Task: Let's say you are creating a new web resource for a particular 
 audience, such as "caregivers." What do you know about the information
