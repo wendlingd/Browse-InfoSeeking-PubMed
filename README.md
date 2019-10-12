@@ -2,9 +2,6 @@
 
 ## For builders of human-centered, digital health-medicine products and services
 
-Browse 'information needs / seeking / use' studies in PubMed with Python-generated 
-report
-
 Task: Let's say you are creating a new web resource for a particular 
 audience, such as "caregivers." What do you know about the information
 needs, information seeking, and information use behaviors of this audience? 
