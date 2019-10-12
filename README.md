@@ -1,8 +1,8 @@
 # Python - List counts for InfoSeeking studies in PubMed, by audience
 
-## Health-medicine resource for building human-centered digital products and services
+## For builders of human-centered, digital health-medicine products and services
 
-Browse 'information needs-seeking-use' studies in PubMed with Python-generated 
+Browse 'information needs / seeking / use' studies in PubMed with Python-generated 
 report
 
 Task: Let's say you are creating a new web resource for a particular 
