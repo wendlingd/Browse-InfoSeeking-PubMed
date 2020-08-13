@@ -8,9 +8,9 @@ needs, information seeking, and information use behaviors of this audience?
 The more you know, the more effective your communication will be. Much has 
 been published.
 
-With an ongoing connection to this type of research, subject-matter experts, 
-product managers, public affairs staff, etc. in medicine- and health-related 
-disciplines can improve their effectiveness.
+If you are a subject-matter expert, product manager, public affairs staff
+member, etc. in a medicine- or health-related discipline, having this type
+of ongoing connection to literature can improve your effectiveness.
 
 This script searches all terms in the top three levels of the Persons branch
 of the Medical Subject Headings (MeSH) tree, https://www.ncbi.nlm.nih.gov/mesh/68009272. 
