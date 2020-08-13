@@ -10,7 +10,7 @@ been published.
 
 If you are a subject-matter expert, product manager, public affairs staff
 member, etc. in a medicine- or health-related discipline, having this type
-of ongoing connection to literature can improve your effectiveness.
+of ongoing connection to audience research can improve your effectiveness.
 
 This script searches all terms in the top three levels of the Persons branch
 of the Medical Subject Headings (MeSH) tree, https://www.ncbi.nlm.nih.gov/mesh/68009272. 
