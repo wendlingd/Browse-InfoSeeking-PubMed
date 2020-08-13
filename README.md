@@ -8,15 +8,15 @@ needs, information seeking, and information use behaviors of this audience?
 The more you know, the more effective your communication will be. Much has 
 been published.
 
-Subject matter experts, product managers, public affairs staff, etc. in
-medicine- and health-related disciplines could use an ongoing connection to
-this type of research.
+With an ongoing connection to this type of research, subject-matter experts, 
+product managers, public affairs staff, etc. in medicine- and health-related 
+disciplines can improve their effectiveness.
 
 This script searches all terms in the top three levels of the Persons branch
-of the Persons branch of the Medical Subject Headings (MeSH) tree, 
-https://www.ncbi.nlm.nih.gov/mesh/68009272. In the levels below the third, some
-terms will be included here and others will not be (you can adjust this). Terms 
-retrieving zero results are not included in the report.
+of the Medical Subject Headings (MeSH) tree, https://www.ncbi.nlm.nih.gov/mesh/68009272. 
+In the levels below the third, some terms will be included here and others 
+will not be. You can edit the list of what is checked. Terms retrieving zero 
+results are not included in the report.
 
 ## Sample report output, HTML and screenshot
 
