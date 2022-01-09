@@ -50,9 +50,10 @@ today = datetime.today().strftime('%Y-%m-%d')
 # If you want to reset the working directory
 # os.chdir('/Users/username/Projects/pubmed')
 
-# Always tell NCBI who you are. Create MyNCBI acct, use address here.
-# https://www.ncbi.nlm.nih.gov/myncbi/
-Entrez.email =  "yourRegisteredEmail@yoursite.org"
+# You must create an account and get name and key from https://www.ncbi.nlm.nih.gov/myncbi/
+Entrez.email =  name
+apiKey = key
+timeDelay = 0.5 # You'll be blocked if you don't use a delay; consider .5 second
 
 '''
 # If you want the list of database names
