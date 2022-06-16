@@ -22,7 +22,7 @@ results are not included in the report.
 
 Number of studies by audience type. 
 
-Preview the HTML report: http://htmlpreview.github.io/?https://github.com/wendlingd/Browse-InfoSeeking-PubMed/blob/master/InfoSeekingStudies.html (don't use IE - not supported)
+Preview the HTML report: http://htmlpreview.github.io/?https://github.com/wendlingd/Browse-InfoSeeking-PubMed/blob/master/InfoSeekingStudies.html
 
 Screenshot: 
 <kbd><a href="http://htmlpreview.github.io/?https://github.com/wendlingd/Browse-InfoSeeking-PubMed/blob/master/InfoSeekingStudies.html"><img src="UserStudiesReport.png"></a></kbd>
