@@ -58,7 +58,10 @@ server; https://www.ncbi.nlm.nih.gov/books/NBK3842/
 From NCBI 2022-09-13
 
 ```
-PubMed will be moving to an updated version of the E-utilities API on November 15, 2022. As previously announced, this updated version of E-utilities will use the same technology as the web version of PubMed released in 2020. For example, search results returned by the updated ESearch E-utility will now match those of the PubMed.gov website.
+PubMed will be moving to an updated version of the E-utilities API on November 15, 2022. As previously 
+announced, this updated version of E-utilities will use the same technology as the web version of PubMed 
+released in 2020. For example, search results returned by the updated ESearch E-utility will now match 
+those of the PubMed.gov website.
 
 This update only affects E-utility calls with &db=pubmed. More:
 
