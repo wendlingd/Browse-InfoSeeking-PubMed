@@ -52,3 +52,16 @@ BioPython package, http://biopython.org/DIST/docs/tutorial/Tutorial.html
 
 The email address from a MyNCBI account must be used to communicate with the 
 server; https://www.ncbi.nlm.nih.gov/books/NBK3842/
+
+## Changes in November 2022
+
+From NCBI 2022-09-13
+
+```
+PubMed will be moving to an updated version of the E-utilities API on November 15, 2022. As previously announced, this updated version of E-utilities will use the same technology as the web version of PubMed released in 2020. For example, search results returned by the updated ESearch E-utility will now match those of the PubMed.gov website.
+
+This update only affects E-utility calls with &db=pubmed. More:
+
+- https://ncbiinsights.ncbi.nlm.nih.gov/2021/10/05/updated-pubmed-api/
+- https://www.youtube.com/watch?v=aETx4MyXukk (recorded webinar)
+```
