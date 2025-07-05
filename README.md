@@ -44,7 +44,7 @@ unindexed records will not be retrieved.
 
 MeSH changes; you may want to update the csv file here to match the pages
 starting from https://www.ncbi.nlm.nih.gov/mesh/68009272. Most yearly updates
-are done in the fall; more info: https://www.nlm.nih.gov/bsd/policy/yep_background.html.
+are done by January.
 
 ## Requirements
 
