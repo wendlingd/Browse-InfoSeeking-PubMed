@@ -6,13 +6,10 @@ Task: Let's say you are creating a new web resource for a particular
 audience, such as "caregivers." What do you know about the information
 needs, information seeking, and information use behaviors of this audience? 
 The more you know, the more effective your communication will be. Much has 
-been published.
+been published. Having an ongoing connection to audience research can improve 
+your effectiveness.
 
-If you are a subject-matter expert, product manager, public affairs staff
-member, etc. in a medicine- or health-related discipline, having this type
-of ongoing connection to audience research can improve your effectiveness.
-
-This script searches all terms in the top three levels of the Persons branch
+This script searches terms in the top three levels of the Persons branch
 of the Medical Subject Headings (MeSH) tree, https://www.ncbi.nlm.nih.gov/mesh/68009272. 
 In the levels below the third, some terms will be included here and others 
 will not be. You can edit the list of what is checked. Terms retrieving zero 
@@ -38,9 +35,7 @@ Run this bibliometric report periodically so you and your staff can have an
 uncomplicated foothold into this type of research.
 
 The script's output is an HTML file with hyperlinks to pubmed.gov, for each Persons 
-term that retrieves PubMed records added within the past 6 years. Because
-the script only retrieves records assigned subject headings (MeSH), the newest,
-unindexed records will not be retrieved.
+term that retrieves PubMed records added within the past 6 years.
 
 MeSH changes; you may want to update the csv file here to match the pages
 starting from https://www.ncbi.nlm.nih.gov/mesh/68009272. Most yearly updates
@@ -48,7 +43,5 @@ are done by January.
 
 ## Requirements
 
-BioPython package, http://biopython.org/DIST/docs/tutorial/Tutorial.html
-
-The email address from a MyNCBI account must be used to communicate with the 
-server; https://www.ncbi.nlm.nih.gov/books/NBK3842/
+- BioPython package, http://biopython.org/DIST/docs/tutorial/Tutorial.html
+- MyNCBI account, https://www.ncbi.nlm.nih.gov/books/NBK3842/
