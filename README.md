@@ -18,7 +18,7 @@ Number of studies by audience type.
 Preview the HTML report: https://html-preview.github.io/?url=https://github.com/wendlingd/Browse-InfoSeeking-PubMed/blob/master/InfoSeekingStudies.html
 
 Screenshot: 
-<kbd><a href="http://htmlpreview.github.io/?https://github.com/wendlingd/Browse-InfoSeeking-PubMed/blob/master/InfoSeekingStudies.html"><img src="UserStudiesReport.png"></a></kbd>
+<kbd><a href="https://html-preview.github.io/?url=https://github.com/wendlingd/Browse-InfoSeeking-PubMed/blob/master/Docs/Reports/InfoSeekingStudies.html"><img src="UserStudiesReport.png"></a></kbd>
 
 
 ## Requirements
