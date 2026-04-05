@@ -1,0 +1,7 @@
+biopython
+urllib.parse # Should be part of base library
+pandas
+json
+datetime
+# openpyxl # Optional
+# sqlite3 # Optional
